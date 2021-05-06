@@ -1,3 +1,8 @@
 在tutorial目錄新建一個檔案，然後將檔案添加到數據庫。
 
 首先在tutorial目錄裡新添一個名為「sample.txt」的文字檔案。請在檔案裡輸入以下的內容：
+wuirhdkjs
+jxscfil;akh
+
+fjkflskfl;'a
+k;ldsflldll
